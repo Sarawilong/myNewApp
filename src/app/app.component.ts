@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'Website';
   name = 'Sarawi ';
   familyName = 'LONG '
+  
 }
